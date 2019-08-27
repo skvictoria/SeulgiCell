@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SeulgiCell</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="isung">안녕하세요! 와플스튜디오 17.5기에 지원한 김슬기입니다.</string>
+    <string name="isung_2">서울대 바이오시스템공학 3학년(skvictoria.sk@gmail.com)이고, 컴공 복부전도 신청 예정입니다</string>
+    <string name = "chulchul">좋아하는 것은 : </string>
+    <string name = "likechul">먹는 것</string>
+    <string name = "likemovie">추리영화</string>
+    <string name = "likefashion">쇼핑</string>
+    <string name = "gamsung">개발 쪽에 관심이 많아 교환학생, 공모전, 동아리, SPLIT 멘토링 등 여러 방면으로 노력해왔었구, 이번 학기에도 컴공 커리큘럼 이외에 여러 분야로 경험을 쌓고 싶어서 지원하게 되었습니당!</string>
+    <string name= "gamsung2">이 모든 것을 와플스튜디오와 함께하고 싶어요! ㅎㅂㅎ</string>
+    <string name= "yeyi">꼭 붙었으면 좋겠어요!! 감사합니다~</string>
+</resources>
