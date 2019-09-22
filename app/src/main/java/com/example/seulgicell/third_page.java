@@ -23,7 +23,7 @@ public class third_page extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v){
-                Intent intent = new Intent(getApplicationContext(), second_page.class);
+                Intent intent = new Intent(getApplicationContext(), SecondPageActicity.class);
                 startActivity(intent);
             }
         });

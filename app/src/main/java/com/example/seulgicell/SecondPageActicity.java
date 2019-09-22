@@ -7,7 +7,7 @@ import android.widget.ImageButton;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-public class second_page extends AppCompatActivity {
+public class SecondPageActicity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
